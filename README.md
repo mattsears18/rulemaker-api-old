@@ -1,3 +1,5 @@
+@See [Hasura Docker Docs](https://hasura.io/docs/latest/graphql/core/getting-started/docker-simple.html)
+
 1. Copy `.env.example` to `.env`
 2. **Optional**: set environment variables in `.env` (default values should work)
 3. Start the postgres db and Hasura API with `docker-compose up -d`
